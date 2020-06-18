@@ -1,5 +1,4 @@
 import React from 'react';
-//import logo from './logo.svg';
 import Task1 from './task1';
 import Task2 from './task2';
 import 'bootstrap/dist/css/bootstrap.min.css';
