@@ -62,8 +62,6 @@ export default class task1 extends Component {
                         onChange={this.onSayıChange} />
                 </Col>
 
-
-
                 <Button  variant="outline-primary" type="submit" href="#" onClick={this.onSubmit}>
                     {'Bul'}
                 </Button>
